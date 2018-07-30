@@ -3,6 +3,7 @@
 
 # Temp
 *.swp
+*.swo
 *.o
 
 # Result
